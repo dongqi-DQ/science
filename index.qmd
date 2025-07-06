@@ -8,12 +8,11 @@ about:
 
 :::{#me}
 
-## Goals
-
 ## Education
 
 ## Experience
 
+## Modelling tools
 :::
 
 Thanks for checking out my web site!
