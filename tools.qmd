@@ -4,10 +4,9 @@ title: "Modelling tools"
 
 ## WRF4PALM
 
----
-image: img/wrf4palm_logo.png
----
+[![](img/wrf4palm_logo.png){width=300}](https://github.com/dongqi-DQ/WRF4PALM)
+
 
 ## GEO4PALM
 
-
+[![](img/geo4palm_logo.png){width=300}](https://github.com/dongqi-DQ/GEO4PALM)
