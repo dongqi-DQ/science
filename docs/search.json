@@ -7,6 +7,13 @@
     "text": "Thanks for checking out my web site!"
   },
   {
+    "objectID": "tools.html#geo4palm",
+    "href": "tools.html#geo4palm",
+    "title": "Modelling tools",
+    "section": "GEO4PALM",
+    "text": "GEO4PALM"
+  },
+  {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
@@ -19,26 +26,5 @@
     "title": "Projects",
     "section": "Project 3",
     "text": "Project 3"
-  },
-  {
-    "objectID": "tools.html",
-    "href": "tools.html",
-    "title": "Modelling tools",
-    "section": "",
-    "text": "image: img/wrf4palm_logo.png"
-  },
-  {
-    "objectID": "tools.html#wrf4palm",
-    "href": "tools.html#wrf4palm",
-    "title": "Modelling tools",
-    "section": "",
-    "text": "image: img/wrf4palm_logo.png"
-  },
-  {
-    "objectID": "tools.html#geo4palm",
-    "href": "tools.html#geo4palm",
-    "title": "Modelling tools",
-    "section": "GEO4PALM",
-    "text": "GEO4PALM"
   }
 ]
