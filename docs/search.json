@@ -1,10 +1,31 @@
 [
   {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "blog post title\n\n\n\nQuarto\n\nTesting\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nDongqi Lin\n\n\nApr 8, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Dongqi Lin",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "Github\n  \n  \n    \n     ORCID\n  \n  \n    \n     Google scholar\n  \n\n  \n  \n\n\nI’m a research fellow at Monash University. I’m not a climate scientist, but an atmospheric scientist. And yes, I still fully support climate action — I just don’t work on the large-scale stuff (yet).\nI hold a PhD in Physics from the University of Canterbury in Aotearoa New Zealand. During my PhD, I learned to run Large Eddy Simulation (LES) models (specifically PALM) and the Weather Research and Forecasting (WRF) model. My research focused on boundary layer meteorology, fog, and the impact of soil moisture heterogeneity on fog, which means I gained experience in surface energy balance and turbulence processes.\nAfter my PhD, I applied PALM to fire modelling, studying more rapid and small-scale atmospheric flows.\nNow (in 2025), I work on the spatial characteristics of extreme precipitation. It’s fascinating to see how the spatial scale of extremes is influenced by different factors than intensity, while the former is a topic that remains largely underexplored.\nI enjoy watching how atmospheric flows evolve — how small structures break and merge, and how they shape larger-scale motions, from boundary-layer eddies to the organization of convection.\nI started this website to share some of my “negative” results — the ones that don’t make it into peer-reviewed journals (unless there’s a journal for all the non-positive findings out there). I think it’s still worth giving them a home.\nThanks for stopping by!"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Dongqi Lin",
+    "section": "",
+    "text": "I’m a research fellow at Monash University. I’m not a climate scientist, but an atmospheric scientist. And yes, I still fully support climate action — I just don’t work on the large-scale stuff (yet).\nI hold a PhD in Physics from the University of Canterbury in Aotearoa New Zealand. During my PhD, I learned to run Large Eddy Simulation (LES) models (specifically PALM) and the Weather Research and Forecasting (WRF) model. My research focused on boundary layer meteorology, fog, and the impact of soil moisture heterogeneity on fog, which means I gained experience in surface energy balance and turbulence processes.\nAfter my PhD, I applied PALM to fire modelling, studying more rapid and small-scale atmospheric flows.\nNow (in 2025), I work on the spatial characteristics of extreme precipitation. It’s fascinating to see how the spatial scale of extremes is influenced by different factors than intensity, while the former is a topic that remains largely underexplored.\nI enjoy watching how atmospheric flows evolve — how small structures break and merge, and how they shape larger-scale motions, from boundary-layer eddies to the organization of convection.\nI started this website to share some of my “negative” results — the ones that don’t make it into peer-reviewed journals (unless there’s a journal for all the non-positive findings out there). I think it’s still worth giving them a home."
+  },
+  {
+    "objectID": "posts/20250804_testing/index.html",
+    "href": "posts/20250804_testing/index.html",
+    "title": "blog post title",
+    "section": "",
+    "text": "Hmmm just testing here\n\n\n\nCitationBibTeX citation:@online{lin2025,\n  author = {Lin, Dongqi},\n  title = {Blog Post Title},\n  date = {2025-04-08},\n  url = {https://dongqi-dq.github.io/science/blogs/20250804_testing/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nLin, Dongqi. 2025. “Blog Post Title.” April 8, 2025. https://dongqi-dq.github.io/science/blogs/20250804_testing/."
   },
   {
     "objectID": "tools.html#geo4palm",
@@ -12,19 +33,5 @@
     "title": "Modelling tools",
     "section": "GEO4PALM",
     "text": "GEO4PALM"
-  },
-  {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
   }
 ]

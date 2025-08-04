@@ -1,0 +1,18 @@
+---
+title: "blog post title"
+description: "blog post description (appears underneath the title in smaller text) which is included on the listing page"
+author:
+  - name: Dongqi Lin
+    url: https://github.com/dongqi-DQ
+    orcid: 0000-0003-3955-5882
+    affiliation: Research Fellow @ Monash University
+    affiliation-url: https://research.monash.edu/en/persons/dongqi-lin
+date: 04-08-2025
+categories: [Quarto, Testing]
+citation:
+  url: https://dongqi-dq.github.io/science/blogs/20250804_testing/
+image: hehe.png
+draft: false
+---
+
+Hmmm just testing here 

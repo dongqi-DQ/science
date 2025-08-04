@@ -8,8 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
-      - tools.qmd
+      - href: tools.qmd
+        text: Modelling tools
+      - href: posts.qmd
+        text: Blog
+      - href: publications.qmd
+        text: Publications
     tools:
       - icon: github
         href: https://github.com/dongqi-DQ

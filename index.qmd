@@ -1,18 +1,44 @@
 ---
-title: "About Me"
+title: "Dongqi Lin"
 about:
   id: me
-  template: broadside
-  image: img/profile.png
+  template: trestles
+  image: img/profile.jpg
+  image-width: 20em
+  image-shape: rectangle
+
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/dongqi-DQ
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0000-0003-3955-5882
+    - icon: google-scholar
+      text: Google scholar
+      href: https://scholar.google.com/citations?hl=en&user=WvT__F4AAAAJ
 ---
 
 :::{#me}
 
-## Education
 
-## Experience
+## About me
 
-## Modelling tools
+I'm a research fellow at Monash University. I'm not a climate scientist, but an atmospheric scientist. And yes, I still fully support climate action — I just don't work on the large-scale stuff (yet).
+
+I hold a PhD in Physics from the University of Canterbury in Aotearoa New Zealand. During my PhD, I learned to run Large Eddy Simulation (LES) models (specifically PALM) and the Weather Research and Forecasting (WRF) model. My research focused on boundary layer meteorology, fog, and the impact of soil moisture heterogeneity on fog, which means I gained experience in surface energy balance and turbulence processes.
+
+After my PhD, I applied PALM to fire modelling, studying more rapid and small-scale atmospheric flows.
+
+Now (in 2025), I work on the spatial characteristics of extreme precipitation. It’s fascinating to see how the spatial scale of extremes is influenced by different factors than intensity, while the former is a topic that remains largely underexplored.
+
+I enjoy watching how atmospheric flows evolve — how small structures break and merge, and how they shape larger-scale motions, from boundary-layer eddies to the organization of convection.
+
+I started this website to share some of my “negative” results — the ones that don’t make it into peer-reviewed journals (unless there’s a journal for all the non-positive findings out there). I think it’s still worth giving them a home.
+
+
+
+
 :::
 
-Thanks for checking out my web site!
+Thanks for stopping by!
