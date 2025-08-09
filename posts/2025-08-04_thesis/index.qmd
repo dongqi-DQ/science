@@ -1,0 +1,18 @@
+---
+title: "My PhD thesis"
+description: "You can find my PhD thesis in the University of Canterbury archive, or here."
+author:
+  - name: Dongqi Lin
+    url: https://github.com/dongqi-DQ
+    orcid: 0000-0003-3955-5882
+    affiliation: Research Fellow @ Monash University
+    affiliation-url: https://research.monash.edu/en/persons/dongqi-lin
+date: 04-08-2025
+categories: [Thesis]
+citation:
+  url: https://dongqi-dq.github.io/science/blogs/2025-08-04_thesis/
+image: title.png
+draft: false
+---
+
+My thesis can be found [here](http://dx.doi.org/10.26021/13539). There are a few parts that didn't make their way into peer-review papers, like water shedsegmentation and modified Richardson number for fog forcast. I might do it when I feel like it.

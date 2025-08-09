@@ -4,7 +4,7 @@
     "href": "posts.html",
     "title": "Blog",
     "section": "",
-    "text": "blog post title\n\n\n\nQuarto\n\nTesting\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nDongqi Lin\n\n\nApr 8, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "My PhD thesis\n\n\n\nThesis\n\n\n\nYou can find my PhD thesis in the University of Canterbury archive, or here.\n\n\n\nDongqi Lin\n\n\nApr 8, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -21,11 +21,11 @@
     "text": "I’m a research fellow at Monash University. I’m not a climate scientist, but an atmospheric scientist. And yes, I still fully support climate action — I just don’t work on the large-scale stuff (yet).\nI hold a PhD in Physics from the University of Canterbury in Aotearoa New Zealand. During my PhD, I learned to run Large Eddy Simulation (LES) models (specifically PALM) and the Weather Research and Forecasting (WRF) model. My research focused on boundary layer meteorology, fog, and the impact of soil moisture heterogeneity on fog, which means I gained experience in surface energy balance and turbulence processes.\nAfter my PhD, I applied PALM to fire modelling, studying more rapid and small-scale atmospheric flows.\nNow (in 2025), I work on the spatial characteristics of extreme precipitation. It’s fascinating to see how the spatial scale of extremes is influenced by different factors than intensity, while the former is a topic that remains largely underexplored.\nI enjoy watching how atmospheric flows evolve — how small structures break and merge, and how they shape larger-scale motions, from boundary-layer eddies to the organization of convection.\nI started this website to share some of my “negative” results — the ones that don’t make it into peer-reviewed journals (unless there’s a journal for all the non-positive findings out there). I think it’s still worth giving them a home."
   },
   {
-    "objectID": "posts/20250804_testing/index.html",
-    "href": "posts/20250804_testing/index.html",
-    "title": "blog post title",
+    "objectID": "posts/2025-08-04_thesis/index.html",
+    "href": "posts/2025-08-04_thesis/index.html",
+    "title": "My PhD thesis",
     "section": "",
-    "text": "Hmmm just testing here\n\n\n\nCitationBibTeX citation:@online{lin2025,\n  author = {Lin, Dongqi},\n  title = {Blog Post Title},\n  date = {2025-04-08},\n  url = {https://dongqi-dq.github.io/science/blogs/20250804_testing/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nLin, Dongqi. 2025. “Blog Post Title.” April 8, 2025. https://dongqi-dq.github.io/science/blogs/20250804_testing/."
+    "text": "My thesis can be found here. There are a few parts that didn’t make their way into peer-review papers, like water shedsegmentation and modified Richardson number for fog forcast. I might do it when I feel like it.\n\n\n\nCitationBibTeX citation:@online{lin2025,\n  author = {Lin, Dongqi},\n  title = {My {PhD} Thesis},\n  date = {2025-04-08},\n  url = {https://dongqi-dq.github.io/science/blogs/2025-08-04_thesis/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nLin, Dongqi. 2025. “My PhD Thesis.” April 8, 2025. https://dongqi-dq.github.io/science/blogs/2025-08-04_thesis/."
   },
   {
     "objectID": "tools.html#geo4palm",
@@ -33,5 +33,12 @@
     "title": "Modelling tools",
     "section": "GEO4PALM",
     "text": "GEO4PALM"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Lin, D., Katurji, M., Zawar-Reza, P., Malyarenko, A., Valencia, A. and Zhang, J., 2024. Fire-Atmosphere Interactions in the Wildland-Urban Interface Using High-Fidelity Experimental Simulations. Authorea Preprints. PDF\nValencia A,, Penney G., Baker G., Gorham D., Gill F., Lin, D., Katurji M., and Power A. 2024. Development of wildland fire exposure indicator for performance-based design applications. iCFSERP20230170. (Conference paper). PDF\nLin, D., Zhang, J., Khan, B., Katurji, M. and Revell, L.E., 2024. GEO4PALM v1. 1: an open-source geospatial data processing toolkit for the PALM model system. Geoscientific Model Development Discussions, 2023, pp.1-36. PDF\nBhatti, Y.A., Revell, L.E., McDonald, A.J., Archibald, A.T., Schuddeboom, A.J., Williams, J., Hardacre, C., Mulcahy, J. and Lin, D., 2024. Aerosol and dimethyl sulfide sensitivity to sulfate chemistry schemes. Journal of Geophysical Research: Atmospheres, 129(12), p.e2023JD040635. PDF\nLin, D., Katurji, M., Revell, L.E., Khan, B. and Sturman, A., 2023. Investigating multiscale meteorological controls and impact of soil moisture heterogeneity on radiation fog in complex terrain using semi-idealised simulations. Atmospheric Chemistry and Physics, 23(22), pp.14451-14479. PDF\nLin, D., Katurji, M., Revell, L.E., Khan, B., Osborne, N., Soltanzadeh, I. and Kremser, S., 2023. Fog type classification using a modified Richardson number for Christchurch, New Zealand. International Journal of Climatology, 43(1), pp.314-330. PDF\nNathan, B., Kremser, S., Mikaloff-Fletcher, S., Bodeker, G., Bird, L., Dale, E., Lin, D., Olivares, G. and Somervell, E., 2021. The MAPM (Mapping Air Pollution eMissions) method for inferring particulate matter emissions maps at city scale from in situ concentration measurements: description and demonstration of capability. Atmospheric Chemistry and Physics, 21(18), pp.14089-14108. PDF\nLin, D., Khan, B., Katurji, M., Bird, L., Faria, R. and Revell, L.E., 2021. WRF4PALM v1. 0: a mesoscale dynamical driver for the microscale PALM model system 6.0. Geoscientific Model Development, 14(5), pp.2503-2524. PDF\nLin, D., Pickering, B.E.N. and Neely III, R.R., 2020. Relating the radar bright band and its strength to surface rainfall rate using an automated approach. Journal of Hydrometeorology, 21(2), pp.335-353. PDF"
   }
 ]

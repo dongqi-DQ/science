@@ -2,4 +2,25 @@
 title: "Publications"
 ---
 
-{{< ai arxiv >}}
+- **Lin, D.**, Katurji, M., Zawar-Reza, P., Malyarenko, A., Valencia, A. and Zhang, J., 2024. Fire-Atmosphere Interactions in the Wildland-Urban Interface Using High-Fidelity Experimental Simulations. Authorea Preprints. [PDF](pdf/Lin_et_al_2024_PALM_fire.pdf)
+
+- Valencia A,, Penney G., Baker G., Gorham D., Gill F., **Lin, D.**, Katurji M., and Power A. 2024. Development of wildland fire exposure indicator for performance-based design applications. iCFSERP20230170. (Conference paper). [PDF](pdf/Valencia-et-al_2024_iCFSERP20230170.pdf)
+
+- **Lin, D.**, Zhang, J., Khan, B., Katurji, M. and Revell, L.E., 2024. GEO4PALM v1. 1: an open-source geospatial data processing toolkit for the PALM model system. Geoscientific Model Development Discussions, 2023, pp.1-36. [PDF](pdf/Lin_et_al_2024_GEO4PALM.pdf)
+
+- Bhatti, Y.A., Revell, L.E., McDonald, A.J., Archibald, A.T., Schuddeboom, A.J., Williams, J., Hardacre, C., Mulcahy, J. and **Lin, D.**, 2024. Aerosol and dimethyl sulfide sensitivity to sulfate chemistry schemes. Journal of Geophysical Research: Atmospheres, 129(12), p.e2023JD040635. [PDF](pdf/Bhatti_et_al-2024-Sulfate_chemistry_scheme.pdf)
+
+- **Lin, D.**, Katurji, M., Revell, L.E., Khan, B. and Sturman, A., 2023. Investigating multiscale meteorological controls and impact of soil moisture heterogeneity on radiation fog in complex terrain using semi-idealised simulations. Atmospheric Chemistry and Physics, 23(22), pp.14451-14479. [PDF](pdf/Lin_et_al-2023_fog_soil_heterogeneity.pdf)
+
+- **Lin, D.**, Katurji, M., Revell, L.E., Khan, B., Osborne, N., Soltanzadeh, I. and Kremser, S., 2023. Fog type classification using a modified Richardson number for Christchurch, New Zealand. International Journal of Climatology, 43(1), pp.314-330. [PDF](pdf/Lin_et_al-2022-Fog_climatology.pdf)
+
+- Nathan, B., Kremser, S., Mikaloff-Fletcher, S., Bodeker, G., Bird, L., Dale, E., **Lin, D.**, Olivares, G. and Somervell, E., 2021. The MAPM (Mapping Air Pollution eMissions) method for inferring particulate matter emissions maps at city scale from in situ concentration measurements: description and demonstration of capability. Atmospheric Chemistry and Physics, 21(18), pp.14089-14108. [PDF](pdf/Nathan_et_al-2021-MAPM.pdf)
+
+- **Lin, D.**, Khan, B., Katurji, M., Bird, L., Faria, R. and Revell, L.E., 2021. WRF4PALM v1. 0: a mesoscale dynamical driver for the microscale PALM model system 6.0. Geoscientific Model Development, 14(5), pp.2503-2524. [PDF](pdf/Lin_et_al-2021-WRF4PALM.pdf)
+
+- **Lin, D.**, Pickering, B.E.N. and Neely III, R.R., 2020. Relating the radar bright band and its strength to surface rainfall rate using an automated approach. Journal of Hydrometeorology, 21(2), pp.335-353. [PDF](pdf/Lin_et_al-2020-radar_bright_band_strength.pdf)
+
+
+
+
+
