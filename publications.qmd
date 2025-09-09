@@ -1,13 +1,13 @@
 ---
 title: "Publications"
 ---
-### 2025 
-- **Lin, D.**, Saunders, K. R., and Singh, M. S., 2025. Mapping the Spatial Scales of Australian Extreme Precipitation Using Daily Rain Gauges. Authorea Preprints. 
-DOI: 10.22541/au.175709100.02722883/v1 [PDF](pdf/Lin_et_al_2025_semivariogram_preprint.pdf)
+## Preprints
+- **Lin, D.**, Saunders, K. R., and Singh, M. S., 2025. Mapping the Spatial Scales of Australian Extreme Precipitation Using Daily Rain Gauges. Authorea Preprints.  [PDF](pdf/Lin_et_al_2025_semivariogram_preprint.pdf)
 
-### 2024
 - **Lin, D.**, Katurji, M., Zawar-Reza, P., Malyarenko, A., Valencia, A. and Zhang, J., 2024. Fire-Atmosphere Interactions in the Wildland-Urban Interface Using High-Fidelity Experimental Simulations. Authorea Preprints. [PDF](pdf/Lin_et_al_2024_PALM_fire.pdf)
 
+## Published Journal Articles
+### 2024
 - Valencia A,, Penney G., Baker G., Gorham D., Gill F., **Lin, D.**, Katurji M., and Power A. 2024. Development of wildland fire exposure indicator for performance-based design applications. iCFSERP20230170. (Conference paper). [PDF](pdf/Valencia-et-al_2024_iCFSERP20230170.pdf)
 
 - **Lin, D.**, Zhang, J., Khan, B., Katurji, M. and Revell, L.E., 2024. GEO4PALM v1. 1: an open-source geospatial data processing toolkit for the PALM model system. Geoscientific Model Development Discussions, 2023, pp.1-36. [PDF](pdf/Lin_et_al_2024_GEO4PALM.pdf)
