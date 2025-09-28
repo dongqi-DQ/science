@@ -1,12 +1,14 @@
 ---
 title: "Publications"
 ---
-## Preprints
-- **Lin, D.**, Saunders, K. R., and Singh, M. S., 2025. Mapping the Spatial Scales of Australian Extreme Precipitation Using Daily Rain Gauges. Authorea Preprints.  [PDF](pdf/Lin_et_al_2025_semivariogram_preprint.pdf)
+## Preprints/ In press
 
-- **Lin, D.**, Katurji, M., Zawar-Reza, P., Malyarenko, A., Valencia, A. and Zhang, J., 2024. Fire-Atmosphere Interactions in the Wildland-Urban Interface Using High-Fidelity Experimental Simulations. Authorea Preprints. [PDF](pdf/Lin_et_al_2024_PALM_fire.pdf)
+- **Lin, D.**, Saunders, K. R., and Singh, M. S., 2025. Mapping the Spatial Scales of Australian Extreme Precipitation Using Daily Rain Gauges. Authorea Preprints. [PDF](pdf/Lin_et_al_2025_semivariogram_preprint.pdf)
+
+- **Lin, D.**, Katurji, M., Zawar-Reza, P., Malyarenko, A., Valencia, A. and Zhang, J., 2025. High-Fidelity Experimental Simulations of Atmospheric Flow near Low-Intensity Fires in a Wildland-Urban Interface. *Accepted (in press.)*. [PDF](pdf/Lin_et_al-2025_JGR_PALM_fire.pdf)
 
 ## Published Journal Articles
+
 ### 2024
 - Valencia A,, Penney G., Baker G., Gorham D., Gill F., **Lin, D.**, Katurji M., and Power A. 2024. Development of wildland fire exposure indicator for performance-based design applications. iCFSERP20230170. (Conference paper). [PDF](pdf/Valencia-et-al_2024_iCFSERP20230170.pdf)
 
