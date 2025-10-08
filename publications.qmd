@@ -5,9 +5,12 @@ title: "Publications"
 
 - **Lin, D.**, Saunders, K. R., and Singh, M. S., 2025. Mapping the Spatial Scales of Australian Extreme Precipitation Using Daily Rain Gauges. Authorea Preprints. [PDF](pdf/Lin_et_al_2025_semivariogram_preprint.pdf)
 
-- **Lin, D.**, Katurji, M., Zawar-Reza, P., Malyarenko, A., Valencia, A. and Zhang, J., 2025. High-Fidelity Experimental Simulations of Atmospheric Flow near Low-Intensity Fires in a Wildland-Urban Interface. *Accepted (in press.)*. [PDF](pdf/Lin_et_al-2025_JGR_PALM_fire.pdf)
+
 
 ## Published Journal Articles
+
+### 2025
+- **Lin, D.**, Katurji, M., Zawar‐Reza, P., Malyarenko, A., Valencia, A. and Zhang, J., 2025. High‐fidelity experimental simulations of atmospheric flow near low‐intensity fires in a wildland‐urban interface. Journal of Geophysical Research: Atmospheres, 130(19), p.e2025JD043641. [PDF](pdf/Lin_et_al-2025_JGR_PALM_fire.pdf)
 
 ### 2024
 - Valencia A,, Penney G., Baker G., Gorham D., Gill F., **Lin, D.**, Katurji M., and Power A. 2024. Development of wildland fire exposure indicator for performance-based design applications. iCFSERP20230170. (Conference paper). [PDF](pdf/Valencia-et-al_2024_iCFSERP20230170.pdf)
