@@ -15,4 +15,4 @@ image: title.png
 draft: false
 ---
 
-My thesis can be found [here](http://dx.doi.org/10.26021/13539). There are a few parts that didn't make their way into peer-review papers, like water shedsegmentation and modified Richardson number for fog forcast. I might do it when I feel like it.
+My thesis can be found [here](http://dx.doi.org/10.26021/13539). There are a few parts that didn't make their way into peer-review papers, like water shedsegmentation and modified Richardson number for fog forcast.

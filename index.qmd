@@ -3,7 +3,7 @@ title: "Dongqi Lin"
 about:
   id: me
   template: trestles
-  image: img/profile.jpg
+  image: img/dq_balloon_v.png
   image-width: 20em
   image-shape: rectangle
 
@@ -30,15 +30,14 @@ I hold a PhD in Physics from the University of Canterbury in Aotearoa New Zealan
 
 After my PhD, I applied PALM to fire modelling, studying more rapid and small-scale atmospheric flows.
 
-Now (in 2025), I work on the spatial characteristics of extreme precipitation. It’s fascinating to see how the spatial scale of extremes is influenced by different factors than intensity, while the former is a topic that remains largely underexplored.
+Now (in 2026), I work on the spatial characteristics of extreme precipitation. It’s fascinating to see the spatial evolution of weather systems, mesoscale convection, and microscale turbulent eddies — how small structures break and merge, and how they shape larger-scale motions.
 
-I enjoy watching how atmospheric flows evolve — how small structures break and merge, and how they shape larger-scale motions, from boundary-layer eddies to the organization of convection.
+There is so much we do not understand about the mysterious atmosphere, so this website records my journey of understanding the atmosphere, one idea at a time.
 
-I started this website to share some of my “negative” results — the ones that don’t make it into peer-reviewed journals (unless there’s a journal for all the non-positive findings out there). I think it’s still worth giving them a home.
 
 
 
 
 :::
 
-Thanks for stopping by!
+*I launched the only balloon at the 2023 Hororata Glow Hot Air Balloon Festival: the most weather-proof balloon is the weather balloon.*

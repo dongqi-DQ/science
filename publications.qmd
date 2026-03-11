@@ -1,13 +1,17 @@
 ---
 title: "Publications"
 ---
-## Preprints/ In press
+## In preparation / in review
+Vishwanathan G., McDonald A. J., Stone D. A., Rosier S., Noble C., Patterson M., Lin D., and A. Thomas, The role of atmospheric blocking in extreme precipitation events in Aotearoa New Zealand.
 
-- **Lin, D.**, Saunders, K. R., and Singh, M. S., 2025. Mapping the Spatial Scales of Australian Extreme Precipitation Using Daily Rain Gauges. Authorea Preprints. [PDF](pdf/Lin_et_al_2025_semivariogram_preprint.pdf)
 
+## Preprints / In press
 
 
 ## Published Journal Articles
+
+### 2026
+- **Lin, D.**, Saunders, K.R. and Singh, M.S., 2026. Mapping the Spatial Scales of Australian Extreme Precipitation Using Daily Rain Gauges. International Journal of Climatology, p.e70283.[PDF](pdf/Lin_et_al-2026_spatial_scale_extremes.pdf)
 
 ### 2025
 - **Lin, D.**, Katurji, M., Zawar‐Reza, P., Malyarenko, A., Valencia, A. and Zhang, J., 2025. High‐fidelity experimental simulations of atmospheric flow near low‐intensity fires in a wildland‐urban interface. Journal of Geophysical Research: Atmospheres, 130(19), p.e2025JD043641. [PDF](pdf/Lin_et_al-2025_JGR_PALM_fire.pdf)

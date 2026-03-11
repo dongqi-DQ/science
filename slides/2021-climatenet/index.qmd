@@ -1,0 +1,23 @@
+---
+title: "Expanding climateprediction.net"
+description: "International Symposium on Grids & Clouds 2021"
+author:
+  - name: Dongqi Lin
+    url: https://github.com/dongqi-DQ
+    orcid: 0000-0003-3955-5882
+    affiliation: Research Fellow @ Monash University
+    affiliation-url: https://research.monash.edu/en/persons/dongqi-lin
+date: 04-08-2021
+categories: [Thesis]
+citation:
+  url: https://dongqi-dq.github.io/science/slides/2021-climatenet/
+image: title.png
+draft: false
+---
+
+My [WRF notes](https://github.com/dongqi-DQ/WRF-Notes) have helped the integration of WRF (now retired as of 2026) to [climateprediction.net](https://climateprediction.net/), the world’s largest climate modelling experiment.
+
+See slides below:
+```{=html}
+<embed src="ISGC_Talk_2021.pdf" width="800px" height="2100px" />
+```

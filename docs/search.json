@@ -7,25 +7,25 @@
     "text": "My PhD thesis\n\n\n\nThesis\n\n\n\nYou can find my PhD thesis in the University of Canterbury archive, or here.\n\n\n\nDongqi Lin\n\n\nApr 8, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Dongqi Lin",
+    "objectID": "slides/2021-climatenet/index.html",
+    "href": "slides/2021-climatenet/index.html",
+    "title": "Expanding climateprediction.net",
     "section": "",
-    "text": "Github\n  \n  \n    \n     ORCID\n  \n  \n    \n     Google scholar\n  \n\n  \n  \n\n\nI’m a research fellow at Monash University. I’m not a climate scientist, but an atmospheric scientist. And yes, I still fully support climate action — I just don’t work on the large-scale stuff (yet).\nI hold a PhD in Physics from the University of Canterbury in Aotearoa New Zealand. During my PhD, I learned to run Large Eddy Simulation (LES) models (specifically PALM) and the Weather Research and Forecasting (WRF) model. My research focused on boundary layer meteorology, fog, and the impact of soil moisture heterogeneity on fog, which means I gained experience in surface energy balance and turbulence processes.\nAfter my PhD, I applied PALM to fire modelling, studying more rapid and small-scale atmospheric flows.\nNow (in 2025), I work on the spatial characteristics of extreme precipitation. It’s fascinating to see how the spatial scale of extremes is influenced by different factors than intensity, while the former is a topic that remains largely underexplored.\nI enjoy watching how atmospheric flows evolve — how small structures break and merge, and how they shape larger-scale motions, from boundary-layer eddies to the organization of convection.\nI started this website to share some of my “negative” results — the ones that don’t make it into peer-reviewed journals (unless there’s a journal for all the non-positive findings out there). I think it’s still worth giving them a home.\nThanks for stopping by!"
+    "text": "My WRF notes have helped the integration of WRF (now retired as of 2026) to climateprediction.net, the world’s largest climate modelling experiment.\nSee slides below:\n\n\n\n\nCitationBibTeX citation:@online{lin2021,\n  author = {Lin, Dongqi},\n  title = {Expanding Climateprediction.net},\n  date = {2021-04-08},\n  url = {https://dongqi-dq.github.io/science/slides/2021-climatenet/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nLin, Dongqi. 2021. “Expanding Climateprediction.net.” April\n8, 2021. https://dongqi-dq.github.io/science/slides/2021-climatenet/."
   },
   {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Dongqi Lin",
+    "objectID": "Talks.html",
+    "href": "Talks.html",
+    "title": "Talks",
     "section": "",
-    "text": "I’m a research fellow at Monash University. I’m not a climate scientist, but an atmospheric scientist. And yes, I still fully support climate action — I just don’t work on the large-scale stuff (yet).\nI hold a PhD in Physics from the University of Canterbury in Aotearoa New Zealand. During my PhD, I learned to run Large Eddy Simulation (LES) models (specifically PALM) and the Weather Research and Forecasting (WRF) model. My research focused on boundary layer meteorology, fog, and the impact of soil moisture heterogeneity on fog, which means I gained experience in surface energy balance and turbulence processes.\nAfter my PhD, I applied PALM to fire modelling, studying more rapid and small-scale atmospheric flows.\nNow (in 2025), I work on the spatial characteristics of extreme precipitation. It’s fascinating to see how the spatial scale of extremes is influenced by different factors than intensity, while the former is a topic that remains largely underexplored.\nI enjoy watching how atmospheric flows evolve — how small structures break and merge, and how they shape larger-scale motions, from boundary-layer eddies to the organization of convection.\nI started this website to share some of my “negative” results — the ones that don’t make it into peer-reviewed journals (unless there’s a journal for all the non-positive findings out there). I think it’s still worth giving them a home."
+    "text": "Expanding climateprediction.net\n\n\n\nThesis\n\n\n\nInternational Symposium on Grids & Clouds 2021\n\n\n\nDongqi Lin\n\n\nApr 8, 2021\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2025-08-04_thesis/index.html",
     "href": "posts/2025-08-04_thesis/index.html",
     "title": "My PhD thesis",
     "section": "",
-    "text": "My thesis can be found here. There are a few parts that didn’t make their way into peer-review papers, like water shedsegmentation and modified Richardson number for fog forcast. I might do it when I feel like it.\n\n\n\nCitationBibTeX citation:@online{lin2025,\n  author = {Lin, Dongqi},\n  title = {My {PhD} Thesis},\n  date = {2025-04-08},\n  url = {https://dongqi-dq.github.io/science/blogs/2025-08-04_thesis/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nLin, Dongqi. 2025. “My PhD Thesis.” April 8, 2025. https://dongqi-dq.github.io/science/blogs/2025-08-04_thesis/."
+    "text": "My thesis can be found here. There are a few parts that didn’t make their way into peer-review papers, like water shedsegmentation and modified Richardson number for fog forcast.\n\n\n\nCitationBibTeX citation:@online{lin2025,\n  author = {Lin, Dongqi},\n  title = {My {PhD} Thesis},\n  date = {2025-04-08},\n  url = {https://dongqi-dq.github.io/science/blogs/2025-08-04_thesis/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nLin, Dongqi. 2025. “My PhD Thesis.” April 8, 2025. https://dongqi-dq.github.io/science/blogs/2025-08-04_thesis/."
   },
   {
     "objectID": "tools.html#geo4palm",
@@ -35,24 +35,45 @@
     "text": "GEO4PALM"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dongqi Lin",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     ORCID\n  \n  \n    \n     Google scholar\n  \n\n  \n  \n\n\nI’m a research fellow at Monash University. I’m not a climate scientist, but an atmospheric scientist. And yes, I still fully support climate action — I just don’t work on the large-scale stuff (yet).\nI hold a PhD in Physics from the University of Canterbury in Aotearoa New Zealand. During my PhD, I learned to run Large Eddy Simulation (LES) models (specifically PALM) and the Weather Research and Forecasting (WRF) model. My research focused on boundary layer meteorology, fog, and the impact of soil moisture heterogeneity on fog, which means I gained experience in surface energy balance and turbulence processes.\nAfter my PhD, I applied PALM to fire modelling, studying more rapid and small-scale atmospheric flows.\nNow (in 2026), I work on the spatial characteristics of extreme precipitation. It’s fascinating to see the spatial evolution of weather systems, mesoscale convection, and microscale turbulent eddies — how small structures break and merge, and how they shape larger-scale motions.\nThere is so much we do not understand about the mysterious atmosphere, so this website records my journey of understanding the atmosphere, one idea at a time.\nI launched the only balloon at the 2023 Hororata Glow Hot Air Balloon Festival: the most weather-proof balloon is the weather balloon."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Dongqi Lin",
+    "section": "",
+    "text": "I’m a research fellow at Monash University. I’m not a climate scientist, but an atmospheric scientist. And yes, I still fully support climate action — I just don’t work on the large-scale stuff (yet).\nI hold a PhD in Physics from the University of Canterbury in Aotearoa New Zealand. During my PhD, I learned to run Large Eddy Simulation (LES) models (specifically PALM) and the Weather Research and Forecasting (WRF) model. My research focused on boundary layer meteorology, fog, and the impact of soil moisture heterogeneity on fog, which means I gained experience in surface energy balance and turbulence processes.\nAfter my PhD, I applied PALM to fire modelling, studying more rapid and small-scale atmospheric flows.\nNow (in 2026), I work on the spatial characteristics of extreme precipitation. It’s fascinating to see the spatial evolution of weather systems, mesoscale convection, and microscale turbulent eddies — how small structures break and merge, and how they shape larger-scale motions.\nThere is so much we do not understand about the mysterious atmosphere, so this website records my journey of understanding the atmosphere, one idea at a time."
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Lin, D., Saunders, K. R., and Singh, M. S., 2025. Mapping the Spatial Scales of Australian Extreme Precipitation Using Daily Rain Gauges. Authorea Preprints. PDF"
+    "text": "Vishwanathan G., McDonald A. J., Stone D. A., Rosier S., Noble C., Patterson M., Lin D., and A. Thomas, The role of atmospheric blocking in extreme precipitation events in Aotearoa New Zealand."
+  },
+  {
+    "objectID": "publications.html#in-preparation-in-review",
+    "href": "publications.html#in-preparation-in-review",
+    "title": "Publications",
+    "section": "",
+    "text": "Vishwanathan G., McDonald A. J., Stone D. A., Rosier S., Noble C., Patterson M., Lin D., and A. Thomas, The role of atmospheric blocking in extreme precipitation events in Aotearoa New Zealand."
   },
   {
     "objectID": "publications.html#preprints-in-press",
     "href": "publications.html#preprints-in-press",
     "title": "Publications",
-    "section": "",
-    "text": "Lin, D., Saunders, K. R., and Singh, M. S., 2025. Mapping the Spatial Scales of Australian Extreme Precipitation Using Daily Rain Gauges. Authorea Preprints. PDF"
+    "section": "Preprints / In press",
+    "text": "Preprints / In press"
   },
   {
     "objectID": "publications.html#published-journal-articles",
     "href": "publications.html#published-journal-articles",
     "title": "Publications",
     "section": "Published Journal Articles",
-    "text": "Published Journal Articles\n\n2025\n\nLin, D., Katurji, M., Zawar‐Reza, P., Malyarenko, A., Valencia, A. and Zhang, J., 2025. High‐fidelity experimental simulations of atmospheric flow near low‐intensity fires in a wildland‐urban interface. Journal of Geophysical Research: Atmospheres, 130(19), p.e2025JD043641. PDF\n\n\n\n2024\n\nValencia A,, Penney G., Baker G., Gorham D., Gill F., Lin, D., Katurji M., and Power A. 2024. Development of wildland fire exposure indicator for performance-based design applications. iCFSERP20230170. (Conference paper). PDF\nLin, D., Zhang, J., Khan, B., Katurji, M. and Revell, L.E., 2024. GEO4PALM v1. 1: an open-source geospatial data processing toolkit for the PALM model system. Geoscientific Model Development Discussions, 2023, pp.1-36. PDF\nBhatti, Y.A., Revell, L.E., McDonald, A.J., Archibald, A.T., Schuddeboom, A.J., Williams, J., Hardacre, C., Mulcahy, J. and Lin, D., 2024. Aerosol and dimethyl sulfide sensitivity to sulfate chemistry schemes. Journal of Geophysical Research: Atmospheres, 129(12), p.e2023JD040635. PDF\n\n\n\n2023\n\nLin, D., Katurji, M., Revell, L.E., Khan, B. and Sturman, A., 2023. Investigating multiscale meteorological controls and impact of soil moisture heterogeneity on radiation fog in complex terrain using semi-idealised simulations. Atmospheric Chemistry and Physics, 23(22), pp.14451-14479. PDF\nLin, D., Katurji, M., Revell, L.E., Khan, B., Osborne, N., Soltanzadeh, I. and Kremser, S., 2023. Fog type classification using a modified Richardson number for Christchurch, New Zealand. International Journal of Climatology, 43(1), pp.314-330. PDF\n\n\n\n2021\n\nNathan, B., Kremser, S., Mikaloff-Fletcher, S., Bodeker, G., Bird, L., Dale, E., Lin, D., Olivares, G. and Somervell, E., 2021. The MAPM (Mapping Air Pollution eMissions) method for inferring particulate matter emissions maps at city scale from in situ concentration measurements: description and demonstration of capability. Atmospheric Chemistry and Physics, 21(18), pp.14089-14108. PDF\nLin, D., Khan, B., Katurji, M., Bird, L., Faria, R. and Revell, L.E., 2021. WRF4PALM v1. 0: a mesoscale dynamical driver for the microscale PALM model system 6.0. Geoscientific Model Development, 14(5), pp.2503-2524. PDF\n\n\n\n2020\n\nLin, D., Pickering, B.E.N. and Neely III, R.R., 2020. Relating the radar bright band and its strength to surface rainfall rate using an automated approach. Journal of Hydrometeorology, 21(2), pp.335-353. PDF"
+    "text": "Published Journal Articles\n\n2026\n\nLin, D., Saunders, K.R. and Singh, M.S., 2026. Mapping the Spatial Scales of Australian Extreme Precipitation Using Daily Rain Gauges. International Journal of Climatology, p.e70283.PDF\n\n\n\n2025\n\nLin, D., Katurji, M., Zawar‐Reza, P., Malyarenko, A., Valencia, A. and Zhang, J., 2025. High‐fidelity experimental simulations of atmospheric flow near low‐intensity fires in a wildland‐urban interface. Journal of Geophysical Research: Atmospheres, 130(19), p.e2025JD043641. PDF\n\n\n\n2024\n\nValencia A,, Penney G., Baker G., Gorham D., Gill F., Lin, D., Katurji M., and Power A. 2024. Development of wildland fire exposure indicator for performance-based design applications. iCFSERP20230170. (Conference paper). PDF\nLin, D., Zhang, J., Khan, B., Katurji, M. and Revell, L.E., 2024. GEO4PALM v1. 1: an open-source geospatial data processing toolkit for the PALM model system. Geoscientific Model Development Discussions, 2023, pp.1-36. PDF\nBhatti, Y.A., Revell, L.E., McDonald, A.J., Archibald, A.T., Schuddeboom, A.J., Williams, J., Hardacre, C., Mulcahy, J. and Lin, D., 2024. Aerosol and dimethyl sulfide sensitivity to sulfate chemistry schemes. Journal of Geophysical Research: Atmospheres, 129(12), p.e2023JD040635. PDF\n\n\n\n2023\n\nLin, D., Katurji, M., Revell, L.E., Khan, B. and Sturman, A., 2023. Investigating multiscale meteorological controls and impact of soil moisture heterogeneity on radiation fog in complex terrain using semi-idealised simulations. Atmospheric Chemistry and Physics, 23(22), pp.14451-14479. PDF\nLin, D., Katurji, M., Revell, L.E., Khan, B., Osborne, N., Soltanzadeh, I. and Kremser, S., 2023. Fog type classification using a modified Richardson number for Christchurch, New Zealand. International Journal of Climatology, 43(1), pp.314-330. PDF\n\n\n\n2021\n\nNathan, B., Kremser, S., Mikaloff-Fletcher, S., Bodeker, G., Bird, L., Dale, E., Lin, D., Olivares, G. and Somervell, E., 2021. The MAPM (Mapping Air Pollution eMissions) method for inferring particulate matter emissions maps at city scale from in situ concentration measurements: description and demonstration of capability. Atmospheric Chemistry and Physics, 21(18), pp.14089-14108. PDF\nLin, D., Khan, B., Katurji, M., Bird, L., Faria, R. and Revell, L.E., 2021. WRF4PALM v1. 0: a mesoscale dynamical driver for the microscale PALM model system 6.0. Geoscientific Model Development, 14(5), pp.2503-2524. PDF\n\n\n\n2020\n\nLin, D., Pickering, B.E.N. and Neely III, R.R., 2020. Relating the radar bright band and its strength to surface rainfall rate using an automated approach. Journal of Hydrometeorology, 21(2), pp.335-353. PDF"
   }
 ]
