@@ -19,7 +19,7 @@ Vishwanathan G., McDonald A. J., Stone D. A., Rosier S., Noble C., Patterson M.,
 ### 2024
 - Valencia A,, Penney G., Baker G., Gorham D., Gill F., **Lin, D.**, Katurji M., and Power A. 2024. Development of wildland fire exposure indicator for performance-based design applications. iCFSERP20230170. (Conference paper). [PDF](pdf/Valencia-et-al_2024_iCFSERP20230170.pdf)
 
-- **Lin, D.**, Zhang, J., Khan, B., Katurji, M. and Revell, L.E., 2024. GEO4PALM v1. 1: an open-source geospatial data processing toolkit for the PALM model system. Geoscientific Model Development Discussions, 2023, pp.1-36. [PDF](pdf/Lin_et_al_2024_GEO4PALM.pdf)
+- **Lin, D.**, Zhang, J., Khan, B., Katurji, M. and Revell, L.E., 2024. GEO4PALM v1. 1: an open-source geospatial data processing toolkit for the PALM model system. Geoscientific Model Development, 17(2), 815-845. [PDF](pdf/Lin_et_al_2024_GEO4PALM.pdf)
 
 - Bhatti, Y.A., Revell, L.E., McDonald, A.J., Archibald, A.T., Schuddeboom, A.J., Williams, J., Hardacre, C., Mulcahy, J. and **Lin, D.**, 2024. Aerosol and dimethyl sulfide sensitivity to sulfate chemistry schemes. Journal of Geophysical Research: Atmospheres, 129(12), p.e2023JD040635. [PDF](pdf/Bhatti_et_al-2024-Sulfate_chemistry_scheme.pdf)
 
