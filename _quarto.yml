@@ -16,6 +16,8 @@ website:
         text: Publications
       - href: Talks.qmd
         text: Talks
+      - href: CV.qmd
+        text: CV
     tools:
       - icon: github
         href: https://github.com/dongqi-DQ
