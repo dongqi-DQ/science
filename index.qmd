@@ -24,11 +24,11 @@ about:
 
 ## About me
 
-I'm a research fellow at Monash University. I'm not a climate scientist, but an atmospheric scientist. And yes, I still fully support climate action — I just don't work on the large-scale stuff (yet).
+I'm a research fellow at Monash University. I'm an atmospheric scientist rather than a pure climate scientist -- I work across scales, connecting turbulence and convective storms to climate. (And yes, I fully support climate action!) 
 
-I hold a PhD in Physics from the University of Canterbury in Aotearoa New Zealand. During my PhD, I learned to run Large Eddy Simulation (LES) models (specifically PALM) and the Weather Research and Forecasting (WRF) model. My research focused on boundary layer meteorology, fog, and the impact of soil moisture heterogeneity on fog, which means I gained experience in surface energy balance and turbulence processes.
+I hold a PhD in Physics from the University of Canterbury in Aotearoa New Zealand. During my PhD, I learned to run Large Eddy Simulation (LES) models (specifically PALM) and the Weather Research and Forecasting (WRF) model. My PhD research focused on boundary layer meteorology, fog, and the impact of soil moisture heterogeneity on fog, which means I gained experience in surface energy balance, turbulence, and mesoscale (km to hundreds of km) processes.
 
-After my PhD, I applied PALM to fire modelling, studying more rapid and small-scale atmospheric flows.
+After my PhD, I applied PALM to microscale (metres to a few hundred metres) fire modelling, studying more rapid and small-scale atmospheric flows.
 
 Now (in 2026), I work on the spatial characteristics of extreme precipitation. It’s fascinating to see the spatial evolution of weather systems, mesoscale convection, and microscale turbulent eddies — how small structures break and merge, and how they shape larger-scale motions.
 

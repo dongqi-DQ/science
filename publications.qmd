@@ -1,11 +1,15 @@
 ---
 title: "Publications"
 ---
-## In preparation / in review
-Vishwanathan G., McDonald A. J., Stone D. A., Rosier S., Noble C., Patterson M., Lin D., and A. Thomas, The role of atmospheric blocking in extreme precipitation events in Aotearoa New Zealand.
+## Preprints  / in review / in press
+- **Lin, D.**, Singh, M. S., Li, Y.-X., and Bowden, A. J.: Downpours and deluges: Understanding the contrasting
+environments for localised and widespread heavy rainfall in the tropics, EGUsphere; Weather and
+Climate Dynamics [[preprint](https://doi.org/10.5194/egusphere-2026-4291)], 2026.
 
+- Pletzer, T., Pletzer, A., Andrews, T. C., **Lin, D.**, and Katurji, M.: Mimetic interpolation for finite-time
+Lyapunov exponent computation near irregular domain boundaries, EGUsphere; Geoscientific Model
+Development [[preprint](https://doi.org/10.5194/egusphere-2026-3377)], 2026.
 
-## Preprints / In press
 
 
 ## Published Journal Articles
@@ -17,7 +21,7 @@ Vishwanathan G., McDonald A. J., Stone D. A., Rosier S., Noble C., Patterson M.,
 - **Lin, D.**, Katurji, M., Zawar‐Reza, P., Malyarenko, A., Valencia, A. and Zhang, J., 2025. High‐fidelity experimental simulations of atmospheric flow near low‐intensity fires in a wildland‐urban interface. Journal of Geophysical Research: Atmospheres, 130(19), p.e2025JD043641. [PDF](pdf/Lin_et_al-2025_JGR_PALM_fire.pdf)
 
 ### 2024
-- Valencia A,, Penney G., Baker G., Gorham D., Gill F., **Lin, D.**, Katurji M., and Power A. 2024. Development of wildland fire exposure indicator for performance-based design applications. iCFSERP20230170. (Conference paper). [PDF](pdf/Valencia-et-al_2024_iCFSERP20230170.pdf)
+- Valencia A,, Penney G., Baker G., Gorham D., Gill F., **Lin, D.**, Katurji M., and Power A. 2024. Development of wildland fire exposure indicator for performance-based design applications. iCFSERP20230170. (Peer-reviewed conference proceeding). [PDF](pdf/Valencia-et-al_2024_iCFSERP20230170.pdf)
 
 - **Lin, D.**, Zhang, J., Khan, B., Katurji, M. and Revell, L.E., 2024. GEO4PALM v1. 1: an open-source geospatial data processing toolkit for the PALM model system. Geoscientific Model Development, 17(2), 815-845. [PDF](pdf/Lin_et_al_2024_GEO4PALM.pdf)
 
